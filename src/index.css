@@ -9,3 +9,7 @@ body{
   font-family: 'Atkinson Hyperlegible', sans-serif;
   font-weight: 700;
 }
+.active{
+  background-color: white;
+  color: black;
+}

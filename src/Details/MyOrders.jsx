@@ -13,7 +13,6 @@ const MyOrders = () => {
         </span>
       </div>
 
-    
       <div className="w-full bg-white rounded-xl shadow-md p-5 grid md:grid-cols-4 gap-4">
         <div className="relative flex justify-center md:justify-start">
           <img src={Boult} alt="product" className="w-32 md:w-40" />
@@ -42,8 +41,7 @@ const MyOrders = () => {
           </div>
 
           <p className="text-sm font-bold text-gray-500">
-            Earn{" "}
-            <FontAwesomeIcon icon={faCoins} className="text-yellow-500" />{" "}
+            Earn <FontAwesomeIcon icon={faCoins} className="text-yellow-500" />{" "}
             <span className="text-black">50 Coins</span> on this order
           </p>
 
@@ -79,7 +77,6 @@ const MyOrders = () => {
         </div>
       </div>
 
-      
       <div className="w-full bg-white rounded-xl shadow-md p-5 grid md:grid-cols-4 gap-4">
         <div className="relative flex justify-center md:justify-start">
           <img src={Boult} alt="product" className="w-32 md:w-40" />
@@ -108,8 +105,7 @@ const MyOrders = () => {
           </div>
 
           <p className="text-sm font-bold text-gray-500">
-            Earn{" "}
-            <FontAwesomeIcon icon={faCoins} className="text-yellow-500" />{" "}
+            Earn <FontAwesomeIcon icon={faCoins} className="text-yellow-500" />{" "}
             <span className="text-black">50 Coins</span> on this order
           </p>
 
